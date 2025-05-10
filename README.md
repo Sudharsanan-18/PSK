@@ -61,6 +61,9 @@ plt.show()
 
 ![image](https://github.com/user-attachments/assets/512a8480-16ac-4784-896b-7c2b8eb35c83)
 
+![image](https://github.com/user-attachments/assets/2f993e24-2972-4e56-8cee-e0f0469cd8ea)
+
+
 # Results
 
 The experiment successfully demonstrated digital-analog conversion using PSK.
